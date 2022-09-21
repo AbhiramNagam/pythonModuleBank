@@ -15,7 +15,6 @@ while winner2_index == winner1_index:
 
 winner1 = lottery_tickets[winner1_index]
 winner2 = lottery_tickets[winner2_index]
-print(f'The winners are {winner1} and {winner2}')
 print("Lottery Tickets ")
 count = 0
 for i in lottery_tickets:
